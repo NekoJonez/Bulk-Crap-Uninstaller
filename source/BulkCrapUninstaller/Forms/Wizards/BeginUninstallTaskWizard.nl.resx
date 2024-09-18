@@ -154,7 +154,7 @@
     <value>U kunt een systeem herstelpunt maken voor een back-up van het register, sommige instellingen en bestanden. Het wordt aanbevolen om een herstelpunt te maken voor het verwijderen van stuurprogramma's en belangrijke systeem programma's.</value>
   </data>
   <data name="label8.Text" xml:space="preserve">
-    <value>Waarschuwing: Systeemherstel moet ingeschakeld zijn om dit te laten werken!</value>
+    <value>Waarschuwing: systeemherstel moet ingeschakeld zijn om dit te laten werken!</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
     <value>Wijzig de-installatie instellingen</value>
@@ -166,7 +166,7 @@
     <value>l</value>
   </data>
   <data name="label19.Text" xml:space="preserve">
-    <value>Anders / Divers</value>
+    <value>Andere/Divers</value>
   </data>
   <data name="labelConcurrentEnabled.Text" xml:space="preserve">
     <value>l</value>
@@ -205,7 +205,7 @@
     <value>START DE-INSTALLATIE</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>Wees er van overtuigd dat de volgende informatie juist is, alvorens de de-installatie te starten. Dit is uw laatste kans!</value>
+    <value>Dit is uw laatste kans om te controleren of alles juist is! Indien nodig, kijk alles nog eens goed na.</value>
   </data>
   <data name="tabPage5.Text" xml:space="preserve">
     <value>Finale</value>
