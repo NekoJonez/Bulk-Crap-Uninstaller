@@ -240,7 +240,7 @@ Ontbreekt de originele de-installer, dan kunt u de optie "Handmatig de-instalere
     <value>Beveiligde de-installers</value>
   </data>
   <data name="p3advProtect.Text" xml:space="preserve">
-    <value>Beveiligde onderdelen worden met het "Niet Verwijderen" label aangeduid hetgeen betekent, dat de uitgever niet wil dat u deze verwijderd. Deze aanduiding wordt vaak bij softwarepakketten gebruikt, om te voorkomen dat u daarvan onderdelen de-installeert.</value>
+    <value>Beveiligde onderdelen worden met het "Niet verwijderen" label aangeduid hetgeen betekent, dat de uitgever niet wil dat u deze verwijderd. Deze aanduiding wordt vaak bij softwarepakketten gebruikt, om te voorkomen dat u daarvan onderdelen de-installeert.</value>
   </data>
   <data name="checkBoxListProtected.Text" xml:space="preserve">
     <value>"Beveiligde" de-installers tonen</value>
@@ -262,7 +262,7 @@ Ontbreekt de originele de-installer, dan kunt u de optie "Handmatig de-instalere
   </data>
   <data name="p2viewDetail2.Text" xml:space="preserve">
     <value>● Sorteer de-installers volgens willekeurige kolommen.
-U kunt alle kolommen opnieuw ordenen.</value>
+ U kunt alle kolommen opnieuw ordenen.</value>
   </data>
   <data name="p2viewDetail3.Text" xml:space="preserve">
     <value>Groeperen van soortgelijke uninstallers</value>
